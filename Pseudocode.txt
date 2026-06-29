@@ -1,0 +1,29 @@
+Laboratory Activity 1: Add Two Numbers
+
+START 
+INPUT num1
+INPUT num2
+PROCESS sum = num1 + num2
+DISPLAY sum
+END
+
+Laboratory Activity 2: Compute the average of Three Quiz Scores
+
+START 
+INPUT score1
+INPUT score2
+INPUT score3
+PROCESS sum = score1 + score2 + score3
+DISPLAY sum
+END
+
+Laboratory Activity 3: Determine if a Number is Even or Odd problem
+
+START 
+INPUT number
+IF number MOD 2 = 0 THEN
+   DISPLAY "Even"
+ELSE 
+   DISPLAY "Odd"
+END IF
+END
